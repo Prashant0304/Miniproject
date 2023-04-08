@@ -1,0 +1,187 @@
+Feed,Cases,Standard Message,Summary Message,type,language
+OroFeed-d,"11, 21, 31, 41, 12, 22, 32, 42",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Severe weakness, Serious Infections and health complications. Food intake should be immediately increased",S,EN
+OroFeed-d,"51, 61, 71, 52, 62, 72",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Malnutrition, Metabolic stress, Kidney Stones and Overload",S,EN
+OroFeed-d,"13, 23, 33,",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to malnutrition, Lowered Immunity & Poor Recovery",S,EN
+OroFeed-d,"53, 63, 73",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload",S,EN
+OroFeed-d,14,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Swelling, Infections, risk of High Blood Sugar.",S,EN
+OroFeed-d,"24, 34",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weak muscles, joint problems, hairfall etc.",S,EN
+OroFeed-d,"44,54",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,Congratulations!! Keep It Up!,S,EN
+OroFeed-d,"64, 74",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload",S,EN
+OroFeed-d,"15, 25",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Swelling, Weight Gain, Joints Problems, risk of High Blood Sugar.",S,EN
+OroFeed-d,35,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, Weaker Joints and Muscles, risk of High Blood Sugar.",S,EN
+OroFeed-d,"45, 55",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar.",S,EN
+OroFeed-d,"56, 57,46,47",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar & Inflammation",S,EN
+OroFeed-d,"65, 75",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar & Kidney Stones, Metabolic Stress",S,EN
+OroFeed-d,"16, 26, 17, 27",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar, Low Albumin, Infections.",S,EN
+OroFeed-d,"36, 37",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar.Low Albumin, Lower immunity.",S,EN
+OroFeed-d,"66, 67, 76, 77",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, Inflammation, Metabolic Stress, Kidney Overload",S,EN
+OroFeed-d,43,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,This may lead to weakness and weight loss,S,EN
+OroFeed-d,"11, 21, 31, 41, 12, 22, 32, 42",Increase the consumption of ,"Nutrient Dense food like Ice Cream, Milk, butter, Fruit juices, Ghee, cheese, paneer, Dates and Nuts. Eat More frequent meals(6 times daily)",D,EN
+OroFeed-d,"51, 61, 71, 52, 62, 72",Increase the consumption of ,"Nutrient Dense food like Ice Cream,milk, butter, Fruit juices, Ghee,cheese, paneer, Dates and Nuts. Eat More frequent meals(6 times daily)",D,EN
+OroFeed-d,"13, 23, 33, 43, 14, 24, 34, 15, 25, 35, 16, 26, 17, 27",Increase the consumption of ,"protein Rich food like Milk, Egg White, Soya chunks,cheese, paneer",D,EN
+OroFeed-d,"53, 63, 73, 64, 74",Increase the consumption of ,"Carboydrate Rich food like Fruits - seetaphal, Apple, Banana, Orange. Vegetables - Carrot, Sweet Potato.",D,EN
+OroFeed-d,"44, 54, 45, 46, 47, 55, 56, 57, 65, 75, 66, 67, 76, 77, 36, 37",Increase the consumption of ,-,D,EN
+OroFeed-d,"11, 21, 31, 41, 12, 22, 32, 42, 51, 13, 23, 33, 43, 44",Decrease the consumption of ,-,I,EN
+OroFeed-d,"61, 71, 52, 62, 72, 53, 63, 73, 64, 74, 54, 55, 65, 75, 66, 67, 76, 77",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have more than required protein content.",I,EN
+OroFeed-d,"14, 24, 34, 15, 25, 35, 16, 26, 36, 17, 27, 37,",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have relatively higher calories and lower protein.",I,EN
+OroFeed-d,"45, 46, 47, 56, 57",Decrease the consumption of ,-,I,EN
+ProFeed,"11, 21, 31, 41, 12, 22, 32, 42",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Severe malnutrition, weakness, confusion, Serious Infections, Organ dysfunction & Poor Recovery.Food intake should be immediately increased",S,EN
+ProFeed,"51, 61, 71, 52, 62, 72",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Malnutrition,weakness, confusion, Metabolic stress, Kidney Stones and Overload",S,EN
+ProFeed,"13, 23, 33,",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to malnutrition, Lowered Immunity ,Weak muscles,skin ,hair and joint problems",S,EN
+ProFeed,"53, 63, 73",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to mild weakness,nausea,indigestion, Metabolic stress, Kidney Stones and Overload,",S,EN
+ProFeed,14,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Swelling, Infections, risk of High Blood Sugar, fatty liver",S,EN
+ProFeed,"24, 34",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weaker muscles, joint problems, hairfall, skin problems, recurrent infections.",S,EN
+ProFeed,"44,54",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,Congratulations!! Keep It Up!,S,EN
+ProFeed,"64, 74",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload, inflammation,nausea,indigestion",S,EN
+ProFeed,"15, 25",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Weight Gain, Joints Problems, risk of High Blood Sugar, fatty liver.",S,EN
+ProFeed,35,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, Weaker Joints and Muscles, risk of High Blood Sugar.",S,EN
+ProFeed,"45, 46,47",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, obesity. decrease food intake gradually",S,EN
+ProFeed,"55, 56, 57",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain,obesity, Indigestion. Decrease food intake gradually",S,EN
+ProFeed,"65, 75",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to nausea and indigestion,Weight Gain, kidney overload & Kidney Stones, Metabolic Stress .",S,EN
+ProFeed,"16, 26, 17, 27",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar, Low Albumin, repeated Infections, skin ,hair and joint problems",S,EN
+ProFeed,"36, 37",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to extreme Weight Gain, obesity, risk of High Blood Sugar,Lower immunity. decrease food intake gradually",S,EN
+ProFeed,"66, 67, 76, 77",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead extreme Weight Gain, nausea and indigestion,Inflammation, Metabolic Stress, Kidney Overload.decrease food intake gradually",S,EN
+ProFeed,43,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,This may lead to weakness and weight loss,S,EN
+ProFeed,"11, 21, 31, 41, 12, 22, 32, 42",Increase the consumption of ,"Energy Dense food like FRUITS, NUTS, DATES, GHEE, LASSI, MILK SHAKES, ICE CREAM. Try to increase the quantity of food intake gradually. CONSUME FOOD 6- 8 TIMES DAILY. Compulsorily consume FORMULA FEED to improve nutrition and health status
+",D,EN
+ProFeed,"51, 61, 71, 52, 62, 72",Increase the consumption of ,"Energy Dense food like FRUITS, NUTS, DATES, GHEE, LASSI, MILK SHAKES, ICE CREAM. Try to increase the quantity of food intake gradually. CONSUME FOOD 6- 8 TIMES DAILY. Compulsorily consume FORMULA FEED to improve nutrition and recovery
+",D,EN
+ProFeed,"13, 23, 33, 43, 14, 24, 34, 15, 25, 35, 16, 26, 17, 27",Increase the consumption of ,"protein Rich food like MILK, EGG WHITE, SOYA CHUNKS, NUTS AND PULSES to increase protein content",D,EN
+ProFeed,"53, 63, 73, 64, 74",Increase the consumption of ,"Carboydrate Rich food like Fruits - Apple, Banana, Orange. Vegetables - Beetroot, Carrot, Sweet Potato to increase carbohydrates in your meal",D,EN
+ProFeed,"44, 54, 45, 46, 47, 55, 56, 57, 65, 75, 66, 67, 76, 77, 36, 37",Increase the consumption of ,-,D,EN
+ProFeed,"11, 21, 31, 41, 12, 22, 32, 42, 51, 13, 23, 33, 43, 44",Decrease the consumption of ,-,I,EN
+ProFeed,"61, 71, 52, 62, 72, 53, 63, 73, 64, 74, 54, 55, 65, 75, 66, 67, 76, 77",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have HIGHER PROTEIN CONTENT.",I,EN
+ProFeed,"14, 24, 34, 15, 25, 35, 16, 26, 36, 17, 27, 37,",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have relatively higher calories and lower protein. Replace them with PROTEIN RICH FOODS",I,EN
+ProFeed,"45, 46, 47, 56, 57",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have relatively higher calories",I,EN
+OncoFeed,"11, 21, 31, 41, 12, 22, 32, 42",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Severe weakness, Serious Infections ,Poor Recovery and response to treatment, health complications. Food intake should be immediately increased",S,EN
+OncoFeed,"51, 61, 71, 52, 62, 72",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to weakness, Metabolic stress, nausea,indigestion, Kidney Stones and Overload.Poor Recovery and response to treatment, health complications. Food intake should be immediately increased",S,EN
+OncoFeed,"13, 23, 33,",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to malnutrition, Lowered Immunity & Poor Recovery, wound infections and poor healing",S,EN
+OncoFeed,"53, 63, 73",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload, nausea, and indigestion",S,EN
+OncoFeed,14,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Poor recovery,poor healing, Infections, risk of High Blood Sugar.",S,EN
+OncoFeed,"24, 34",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weak muscles, joint problems, hairfall, skin problems, recurrent infections, Slow healing and recovery",S,EN
+OncoFeed,"44,54",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,Congratulations!! Keep It Up!,S,EN
+OncoFeed,"64, 74",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload, inflammation,nausea and indigestion",S,EN
+OncoFeed,"15, 25",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, hairfall, skin problems, recurrent infections, Slow healing and slow recovery",S,EN
+OncoFeed,35,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain,high blood sugar, Weaker Joints and Muscles, hair and skin problem",S,EN
+OncoFeed,"45, 46,47",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,This may lead to Weight Gain. Decrease food intake gradually,S,EN
+OncoFeed,"55, 56, 57",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain,Indigestion, nausea, metabolic stress.Decrease food intake gradually",S,EN
+OncoFeed,"65, 75",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to This may lead to nausea and indigestion,Weight Gain, Metabolic Stress .",S,EN
+OncoFeed,"16, 26, 17, 27",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar, Weak muscles, joint problems, hairfall, skin problems, Slow healing and recovery.",S,EN
+OncoFeed,"36, 37",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar,Lower immunity. Decrease food intake gradually",S,EN
+OncoFeed,"66, 67, 76, 77",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to extreme Weight Gain, Inflammation, Metabolic Stress, nausea and indigestion",S,EN
+OncoFeed,43,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,this may lead to weakness and weight loss,S,EN
+OncoFeed,"11, 21, 31, 41, 12, 22, 32, 42",Increase the consumption of ,"Energy Dense food like FRUITS, NUTS, DATES,SWEETS,BISCUIT, GHEE, LASSI, MILK SHAKES, ICE CREAM. Try to increase the quantity of food intake gradually. CONSUME FOOD 6- 8 TIMES DAILY. Compulsorily consume FORMULA FEED to improve nutrition and recovery
+",D,EN
+OncoFeed,"51, 61, 71, 52, 62, 72",Increase the consumption of ,"Energy Dense food like FRUITS, NUTS, DATES, SWEETS, BISCUITS, GHEE, LASSI, MILK SHAKES, ICE CREAM. Try to increase the quantity of food intake gradually. CONSUME FOOD 6- 8 TIMES DAILY. Compulsorily consume FORMULA FEED to improve nutrition and recovery
+",D,EN
+OncoFeed,"13, 23, 33, 43, 14, 24, 34, 15, 25, 35, 16, 26, 17, 27",Increase the consumption of ,"protein Rich food like MILK, EGG WHITE, SOYA CHUNKS, NUTS AND PULSES to increase protein content",D,EN
+OncoFeed,"53, 63, 73, 64, 74",Increase the consumption of ,"Carboydrate Rich food like Fruits - Apple, Banana, Orange. Vegetables - Beetroot, Carrot, Sweet Potato, SWEETS to increase carbohydrates in your meal",D,EN
+OncoFeed,"44, 54, 45, 46, 47, 55, 56, 57, 65, 75, 66, 67, 76, 77, 36, 37",Increase the consumption of ,-,D,EN
+OncoFeed,"11, 21, 31, 41, 12, 22, 32, 42, 51, 13, 23, 33, 43, 44",Decrease the consumption of ,-,I,EN
+OncoFeed,"61, 71, 52, 62, 72, 53, 63, 73, 64, 74, 54, 55, 65, 75, 66, 67, 76, 77",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have more than required protein content.",I,EN
+OncoFeed,"14, 24, 34, 15, 25, 35, 16, 26, 36, 17, 27, 37,",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have relatively higher calories and lower protein.",I,EN
+OncoFeed,"45, 46, 47, 56, 57",Decrease the consumption of ,-,I,EN
+ElderFeed,"11, 21, 31, 41, 12, 22, 32, 42",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Severe malnutrition, weakness, confusion, Serious Infections, Organ dysfunction.Food intake should be immediately increased",S,EN
+ElderFeed,"51, 61, 71, 52, 62, 72",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Malnutrition,weakness, confusion, Metabolic stress, Kidney Stones and Overload",S,EN
+ElderFeed,"13, 23, 33,",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to malnutrition, Lowered Immunity ,Weak muscles,skin ,hair and joint problems",S,EN
+ElderFeed,"53, 63, 73",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to mild weakness,nausea,indigestion, Metabolic stress, Kidney Stones and Overload,",S,EN
+ElderFeed,14,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Swelling, Infections, risk of High Blood Sugar, fatty liver",S,EN
+ElderFeed,"24, 34",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weaker muscles, joint problems, hairfall, skin problems, recurrent infections.",S,EN
+ElderFeed,"44,54",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,Congratulations!! Keep It Up!,S,EN
+ElderFeed,"64, 74",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload, inflammation,nausea,indigestion",S,EN
+ElderFeed,"15, 25",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Weight Gain, Joints Problems, risk of High Blood Sugar, fatty liver.",S,EN
+ElderFeed,35,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, Weaker Joints and Muscles, risk of High Blood Sugar.",S,EN
+ElderFeed,"45, 46,47",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, obesity. decrease food intake gradually",S,EN
+ElderFeed,"55, 56, 57",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain,obesity, Indigestion. Decrease food intake gradually",S,EN
+ElderFeed,"65, 75",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to nausea and indigestion,Weight Gain, kidney overload & Kidney Stones, Metabolic Stress .",S,EN
+ElderFeed,"16, 26, 17, 27",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar, Low Albumin, repeated Infections, skin ,hair and joint problems",S,EN
+ElderFeed,"36, 37",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to extreme Weight Gain, risk of High Blood Sugar,Lower immunity.decrease food intake gradually",S,EN
+ElderFeed,"66, 67, 76, 77",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead extreme Weight Gain, nausea and indigestion,Inflammation, Metabolic Stress, Kidney Overload.decrease food intake gradually",S,EN
+ElderFeed,43,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,This may lead to weakness and weight loss,S,EN
+ElderFeed,"11, 21, 31, 41, 12, 22, 32, 42",Increase the consumption of ,"Nutrient Dense food like Ice Cream, Sweets, Fruit juices, Ghee, Dates and Nuts. Eat smaller and More frequent meals every 2hours.",D,EN
+ElderFeed,"51, 61, 71, 52, 62, 72",Increase the consumption of ,"Nutrient Dense food like Ice Cream, Sweets, Fruit juices, Ghee, Dates and Nuts. Eat smaller and More frequent meals every 2hours",D,EN
+ElderFeed,"13, 23, 33, 43, 14, 24, 34, 15, 25, 35, 16, 26, 17, 27",Increase the consumption of ,"protein Rich food like Milk, Egg White, Soya chunks.",D,EN
+ElderFeed,"53, 63, 73, 64, 74",Increase the consumption of ,"Carboydrate Rich food like Fruits - Apple, Banana, Orange. Vegetables - Beetroot, Carrot, Sweet Potato.",D,EN
+ElderFeed,"44, 54, 45, 46, 47, 55, 56, 57, 65, 75, 66, 67, 76, 77, 36, 37",Increase the consumption of ,-,D,EN
+ElderFeed,"11, 21, 31, 41, 12, 22, 32, 42, 51, 13, 23, 33, 43, 44",Decrease the consumption of ,-,I,EN
+ElderFeed,"61, 71, 52, 62, 72, 53, 63, 73, 64, 74, 54, 55, 65, 75, 66, 67, 76, 77",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have more than required protein content.",I,EN
+ElderFeed,"14, 24, 34, 15, 25, 35, 16, 26, 36, 17, 27, 37,",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have relatively higher calories and lower protein.",I,EN
+ElderFeed,"45, 46, 47, 56, 57",Decrease the consumption of ,-,I,EN
+SurgiFeed,"11, 21, 31, 41, 12, 22, 32, 42",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Severe weakness, Serious Infections ,Poor Recovery and response to treatment, health complications. Food intake should be immediately increased",S,EN
+SurgiFeed,"51, 61, 71, 52, 62, 72",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to weakness, Metabolic stress, nausea,indigestion, Kidney Stones and Overload.Poor Recovery and response to treatment, health complications. Food intake should be immediately increased",S,EN
+SurgiFeed,"13, 23, 33,",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to malnutrition, Lowered Immunity & Poor Recovery, wound infections and poor healing",S,EN
+SurgiFeed,"53, 63, 73",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload, nausea, and indigestion",S,EN
+SurgiFeed,14,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Poor recovery,poor healing, Infections, risk of High Blood Sugar.",S,EN
+SurgiFeed,"24, 34",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weak muscles, joint problems, hairfall, skin problems, recurrent infections, Slow healing and recovery",S,EN
+SurgiFeed,"44,54",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,Congratulations!! Keep It Up!,S,EN
+SurgiFeed,"64, 74",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload, inflammation,nausea and indigestion",S,EN
+SurgiFeed,"15, 25",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain,high blood sugar, hairfall, skin problems, recurrent infections, Slow healing and slow recovery",S,EN
+SurgiFeed,35,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain,high blood sugar Weaker Joints and Muscles, hair and skin problem",S,EN
+SurgiFeed,"45, 46,47",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,This may lead to Weight Gain. Decrease food intake gradually,S,EN
+SurgiFeed,"55, 56, 57",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, Indigestion,metabolic stress, Inflammation.Decrease food intake gradually",S,EN
+SurgiFeed,"65, 75",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to nausea and indigestion,Weight Gain, kidney overload & Kidney Stones, Metabolic Stress .",S,EN
+SurgiFeed,"16, 26, 17, 27",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar, Poor Recovery, wound infections and poor healing.",S,EN
+SurgiFeed,"36, 37",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar,Lower immunity. Decrease food intake gradually",S,EN
+SurgiFeed,"66, 67, 76, 77",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to extreme Weight Gain, nausea and indigestion,Inflammation, Metabolic Stress, Kidney Overload.decrease food intake gradually ",S,EN
+SurgiFeed,43,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,this may lead to weakness and weight loss,S,EN
+SurgiFeed,"11, 21, 31, 41, 12, 22, 32, 42",Increase the consumption of ,"Nutrient Dense food like Ice Cream, Sweets, Fruit juices, Ghee, Dates and Nuts. Eat More frequent meals.",D,EN
+SurgiFeed,"51, 61, 71, 52, 62, 72",Increase the consumption of ,"Nutrient Dense food like Ice Cream, Sweets, Fruit juices, Ghee, Dates and Nuts. Eat More frequent meals.",D,EN
+SurgiFeed,"13, 23, 33, 43, 14, 24, 34, 15, 25, 35, 16, 26, 17, 27",Increase the consumption of ,"protein Rich food like Milk, Egg White, Soya chunks.",D,EN
+SurgiFeed,"53, 63, 73, 64, 74",Increase the consumption of ,"Carboydrate Rich food like Fruits - Apple, Banana, Orange. Vegetables - Beetroot, Carrot, Sweet Potato.",D,EN
+SurgiFeed,"44, 54, 45, 46, 47, 55, 56, 57, 65, 75, 66, 67, 76, 77, 36, 37",Increase the consumption of ,-,D,EN
+SurgiFeed,"11, 21, 31, 41, 12, 22, 32, 42, 51, 13, 23, 33, 43, 44",Decrease the consumption of ,-,I,EN
+SurgiFeed,"61, 71, 52, 62, 72, 53, 63, 73, 64, 74, 54, 55, 65, 75, 66, 67, 76, 77",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have more than required protein content.",I,EN
+SurgiFeed,"14, 24, 34, 15, 25, 35, 16, 26, 36, 17, 27, 37,",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have relatively higher calories and lower protein.",I,EN
+SurgiFeed,"45, 46, 47, 56, 57",Decrease the consumption of ,-,I,EN
+RenelFeed,"11, 21, 31, 41, 12, 22, 32, 42",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Severe weakness, Serious Infections ,Poor Recovery and response to treatment, health complications. Food intake should be immediately increased",S,EN
+RenelFeed,"51, 61, 71, 52, 62, 72",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to weakness, Metabolic stress, nausea,indigestion, Kidney Stones and Overload.Poor Recovery and response to treatment, health complications. Food intake should be immediately increased",S,EN
+RenelFeed,"13, 23, 33,",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to malnutrition, Lowered Immunity & Poor Recovery, wound infections and poor healing",S,EN
+RenelFeed,"53, 63, 73",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload, nausea, and indigestion",S,EN
+RenelFeed,14,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Poor recovery,poor healing, Infections, risk of High Blood Sugar.",S,EN
+RenelFeed,"24, 34",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weak muscles, joint problems, hairfall, skin problems, recurrent infections, Slow healing and recovery",S,EN
+RenelFeed,"44,54",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,Congratulations!! Keep It Up!,S,EN
+RenelFeed,"64, 74",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload, inflammation,nausea and indigestion",S,EN
+RenelFeed,"15, 25",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain,high blood sugar, hairfall, skin problems, recurrent infections, Slow healing and slow recovery",S,EN
+RenelFeed,35,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain,high blood sugar Weaker Joints and Muscles, hair and skin problem",S,EN
+RenelFeed,"45, 46,47",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar. Decrease food intake gradually",S,EN
+RenelFeed,"55, 56, 57",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain,high blood sugar, Indigestion,metabolic stress, Inflammation.Decrease food intake gradually",S,EN
+RenelFeed,"65, 75",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to nausea and indigestion,Weight Gain, kidney overload , Metabolic Stress.",S,EN
+RenelFeed,"16, 26, 17, 27",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar, Weak muscles, joint problems, hairfall, skin problems.",S,EN
+RenelFeed,"36, 37",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar,Lower immunity. Decrease food intake gradually",S,EN
+RenelFeed,"66, 67, 76, 77",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to extreme Weight Gain, nausea and indigestion,Inflammation, Metabolic Stress, Kidney Overload.decrease food intake gradually ",S,EN
+RenelFeed,43,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,this may lead to weakness and weight loss,S,EN
+RenelFeed,"11, 21, 31, 41, 12, 22, 32, 42",Increase the consumption of ,"Nutrient Dense food like Ice Cream, Sweets, Fruit juices, Ghee, Dates and Nuts. Eat More frequent meals.",D,EN
+RenelFeed,"51, 61, 71, 52, 62, 72",Increase the consumption of ,"Nutrient Dense food like Ice Cream, Sweets, Fruit juices, Ghee, Dates and Nuts. Eat More frequent meals.",D,EN
+RenelFeed,"13, 23, 33, 43, 14, 24, 34, 15, 25, 35, 16, 26, 17, 27",Increase the consumption of ,"protein Rich food like Milk, Egg White, Soya chunks.",D,EN
+RenelFeed,"53, 63, 73, 64, 74",Increase the consumption of ,"Carboydrate Rich food like Fruits - Apple, Banana, Orange. Vegetables - Beetroot, Carrot, Sweet Potato.",D,EN
+RenelFeed,"44, 54, 45, 46, 47, 55, 56, 57, 65, 75, 66, 67, 76, 77, 36, 37",Increase the consumption of ,-,D,EN
+RenelFeed,"11, 21, 31, 41, 12, 22, 32, 42, 51, 13, 23, 33, 43, 44",Decrease the consumption of ,-,I,EN
+RenelFeed,"61, 71, 52, 62, 72, 53, 63, 73, 64, 74, 54, 55, 65, 75, 66, 67, 76, 77",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have more than required protein content.",I,EN
+RenelFeed,"14, 24, 34, 15, 25, 35, 16, 26, 36, 17, 27, 37,",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have relatively higher calories and lower protein.",I,EN
+RenelFeed,"45, 46, 47, 56, 57",Decrease the consumption of ,-,I,EN
+PregnaFeed,"11, 21, 31, 41, 12, 22, 32, 42",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Severe weakness, gidiness in you . your baby is at risk of low birthweight , decreased brain development, premature birth.Food intake should be immediately increased",S,EN
+PregnaFeed,"51, 61, 71, 52, 62, 72",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to weakness, nausea, indigestion in you . your baby is at risk of low birthweight , decreased brain development, premature birth.Food intake should be immediately increased",S,EN
+PregnaFeed,"13, 23, 33,",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to mild weakness, Lowered Immunity , skin ,hair and joint problems in you. your baby is at risk of poor development of bones and muscles.",S,EN
+PregnaFeed,"53, 63, 73",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to mild weakness, nausea, and indigestion in you",S,EN
+PregnaFeed,14,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Infections, risk of High Blood Sugar. your baby is at high risk of poor development of bones and muscles.",S,EN
+PregnaFeed,"24, 34",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weak muscles, joint problems, hairfall, skin problems in you.your baby is at mild risk of poor development of bones and muscles",S,EN
+PregnaFeed,"44,54",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,Congratulations!! Keep It Up!,S,EN
+PregnaFeed,"64, 74",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, nausea and indigestion in you. ",S,EN
+PregnaFeed,"15, 25",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to more Weight Gain,high blood sugar, hairfall, skin problems in you. your baby is at high risk of poor development of bones and muscles",S,EN
+PregnaFeed,35,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to more Weight Gain,Weaker Joints and Muscles, hair and skin problems in you.",S,EN
+PregnaFeed,"45, 46,47",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,This may lead to more Weight Gain in you. Decrease food intake gradually,S,EN
+PregnaFeed,"55, 56, 57",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain,high blood sugar, Indigestion in you.Decrease food intake gradually",S,EN
+PregnaFeed,"65, 75",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to nausea and indigestion,Weight Gain in you.Decrease food intake gradually",S,EN
+PregnaFeed,"16, 26, 17, 27",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar, Weak muscles, joint problems, hairfall, skin problems in you.your baby is at high risk of poor development of bones and muscles.",S,EN
+PregnaFeed,"36, 37",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar,Lower immunity. Decrease food intake gradually",S,EN
+PregnaFeed,"66, 67, 76, 77",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to extreme Weight Gain, nausea and indigestion,Inflammation, Metabolic Stress, Kidney Overload in you.decrease food intake gradually ",S,EN
+PregnaFeed,43,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,this may lead to weakness and weight loss,S,EN
+PregnaFeed,"11, 21, 31, 41, 12, 22, 32, 42",Increase the consumption of ,"Nutrient Dense food like Ice Cream, Sweets, Fruit juices, Ghee, Dates and Nuts. Eat More frequent meals.",D,EN
+PregnaFeed,"51, 61, 71, 52, 62, 72",Increase the consumption of ,"Nutrient Dense food like Ice Cream, Sweets, Fruit juices, Ghee, Dates and Nuts. Eat More frequent meals.",D,EN
+PregnaFeed,"13, 23, 33, 43, 14, 24, 34, 15, 25, 35, 16, 26, 17, 27",Increase the consumption of ,"protein Rich food like Milk, Egg White, Soya chunks.",D,EN
+PregnaFeed,"53, 63, 73, 64, 74",Increase the consumption of ,"Carboydrate Rich food like Fruits - Apple, Banana, Orange. Vegetables - Beetroot, Carrot, Sweet Potato.",D,EN
+PregnaFeed,"44, 54, 45, 46, 47, 55, 56, 57, 65, 75, 66, 67, 76, 77, 36, 37",Increase the consumption of ,-,D,EN
+PregnaFeed,"11, 21, 31, 41, 12, 22, 32, 42, 51, 13, 23, 33, 43, 44",Decrease the consumption of ,-,I,EN
+PregnaFeed,"61, 71, 52, 62, 72, 53, 63, 73, 64, 74, 54, 55, 65, 75, 66, 67, 76, 77",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have more than required protein content.",I,EN
+PregnaFeed,"14, 24, 34, 15, 25, 35, 16, 26, 36, 17, 27, 37,",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have relatively higher calories and lower protein.",I,EN
+PregnaFeed,"45, 46, 47, 56, 57",Decrease the consumption of ,-,I,EN

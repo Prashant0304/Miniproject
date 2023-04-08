@@ -1,0 +1,12 @@
+Deficiency Slabs,,mL of water,Scoops,,mL of water,Scoops,,mL of water,Scoops,,mL of water,Scoops,,mL of water,Scoops,Feed,Scoops,mL of water,Feed,mL of water,Scoops,Feed,mL of water,Scoops,Feed,mL of water,Scoops,Feed,mL of water,Scoops
+0 - 30,OncoFeed,0,,SurgiFeed,0,,OroFeed,0,,PregnaFeed,0,,PediaFeed,0,,ProFeed,0,,ElderFeed,0,,OroFeed-d,0,,RenelFeed,0,0,HepaFeed,0,
+31- 70,OncoFeed,0.5,50,SurgiFeed,0.5,50,OroFeed,0.5,50,PregnaFeed,0.5,50,PediaFeed,0.5,50,ProFeed,0.5,50,ElderFeed,0.5,50,OroFeed-d,0.5,50,RenelFeed,0.5,50,HepaFeed,1,50
+71 - 130,OncoFeed,1,100,SurgiFeed,1,100,OroFeed,1,100,PregnaFeed,1,100,PediaFeed,1,100,ProFeed,1,100,ElderFeed,1,100,OroFeed-d,1,100,RenelFeed,0.5,50,HepaFeed,2,100
+131- 170,OncoFeed,1.5,150,SurgiFeed,1.5,150,OroFeed,1.5,150,PregnaFeed,1.5,150,PediaFeed,1.5,150,ProFeed,1.5,150,ElderFeed,1.5,150,OroFeed-d,1.5,150,RenelFeed,1.5,100,HepaFeed,3,150
+171- 230,OncoFeed,2,200,SurgiFeed,2,200,OroFeed,2,200,PregnaFeed,2,200,PediaFeed,2,200,ProFeed,2,200,ElderFeed,2,200,OroFeed-d,2,200,RenelFeed,2,150,HepaFeed,4,200
+231-270,OncoFeed,2.5,250,SurgiFeed,2.5,250,OroFeed,2.5,250,PregnaFeed,2.5,250,PediaFeed,2.5,250,ProFeed,2.5,250,ElderFeed,2.5,250,OroFeed-d,2.5,250,RenelFeed,2,150,HepaFeed,5,250
+271-330,OncoFeed,3,300,SurgiFeed,3,300,OroFeed,3,300,PregnaFeed,3,300,PediaFeed,3,300,ProFeed,3,300,ElderFeed,3,300,OroFeed-d,3,300,RenelFeed,3,200,HepaFeed,6,300
+331-370,OncoFeed,3.5,350,SurgiFeed,3.5,350,OroFeed,3.5,350,PregnaFeed,3.5,350,PediaFeed,3.5,350,ProFeed,3.5,350,ElderFeed,3.5,350,OroFeed-d,3.5,350,RenelFeed,3.5,250,HepaFeed,7,350
+371-430,OncoFeed,4,400,SurgiFeed,4,400,OroFeed,4,400,PregnaFeed,4,400,PediaFeed,4,400,ProFeed,4,400,ElderFeed,4,400,OroFeed-d,4,400,RenelFeed,3.5,250,HepaFeed,8,400
+431-470,OncoFeed,4.5,450,SurgiFeed,4.5,450,OroFeed,4.5,450,PregnaFeed,4.5,450,PediaFeed,4.5,450,ProFeed,4.5,450,ElderFeed,4.5,450,OroFeed-d,4.5,450,RenelFeed,4.5,300,HepaFeed,9,450
+471-530,OncoFeed,5,500,SurgiFeed,5,500,OroFeed,5,500,PregnaFeed,5,500,PediaFeed,5,500,ProFeed,5,500,ElderFeed,5,500,OroFeed-d,5,500,RenelFeed,5,350,HepaFeed,10,500

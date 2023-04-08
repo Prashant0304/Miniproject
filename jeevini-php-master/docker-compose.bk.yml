@@ -1,0 +1,76 @@
+version: '3'
+
+networks:
+  web:
+    external: true
+  internal:
+    external: false
+
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    tty: true
+    labels:
+      - traefik.enable=false
+    working_dir: /var/www
+    volumes:
+      - ./php/local.ini:/usr/local/etc/php/conf.d/local.ini
+    networks:
+      - web
+      - internal
+
+  webserver:
+    image: nginx:alpine
+    restart: unless-stopped
+    tty: true
+    labels:
+      - traefik.http.routers.jeevini-webserver.rule=Host(`dev-api.jeevini.com`)
+      - traefik.http.routers.jeevini-webserver.tls=true
+      - traefik.http.routers.jeevini-webserver.tls.certresolver=lets-encrypt
+      - traefik.port=80
+    volumes:
+      - ./:/var/www
+      - ./nginx/conf.d/dev.conf:/etc/nginx/conf.d/default.conf
+    networks:
+      - web
+      - internal
+
+  db:
+    image: mysql:5.7.22
+    restart: unless-stopped
+    tty: true
+    labels:
+      - traefik.enable=false
+    environment:
+      MYSQL_DATABASE: laravel
+      MYSQL_ROOT_PASSWORD: random
+    volumes:
+      - jeevini-db:/var/lib/mysql/
+      - ./mysql/my.cnf:/etc/mysql/my.cnf
+    networks:
+      - internal
+
+  pma:    
+    image: phpmyadmin
+    networks:
+      - web
+      - internal
+    environment:
+      PMA_HOST: db
+    labels:
+      - traefik.http.routers.jeevini-pma.rule=Host(`dev-pma.jeevini.com`)
+      - traefik.http.routers.jeevini-pma.tls=true
+      - traefik.http.routers.jeevini-pma.tls.certresolver=lets-encrypt
+      - traefik.port=80
+      - "traefik.http.middlewares.testheader.headers.accesscontrolallowmethods=GET,OPTIONS,PUT"
+      - "traefik.http.middlewares.testheader.headers.accesscontrolalloworiginlist=*"
+      - "traefik.http.middlewares.testheader.headers.accesscontrolmaxage=100"
+      - "traefik.http.middlewares.testheader.headers.addvaryheader=true"
+
+volumes:
+  jeevini-db:
+    driver: local

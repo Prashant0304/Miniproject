@@ -1,0 +1,27 @@
+Feed,Cases,Standard Message,Summary Message,type,language
+OroFeed-d,"11, 21, 31, 41, 12, 22, 32, 42",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Severe weakness, Serious Infections and health complications. Food intake should be immediately increased",S,EN
+OroFeed-d,"51, 61, 71, 52, 62, 72",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Malnutrition, Metabolic stress, Kidney Stones and Overload",S,EN
+OroFeed-d,"13, 23, 33,",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to malnutrition, Lowered Immunity & Poor Recovery",S,EN
+OroFeed-d,"53, 63, 73",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload",S,EN
+OroFeed-d,14,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Swelling, Infections, risk of High Blood Sugar.",S,EN
+OroFeed-d,"24, 34",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weak muscles, joint problems, hairfall etc.",S,EN
+OroFeed-d,"44,54",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,Congratulations!! Keep It Up!,S,EN
+OroFeed-d,"64, 74",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Metabolic stress, Kidney Stones and Overload",S,EN
+OroFeed-d,"15, 25",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Low Albumin, Swelling, Weight Gain, Joints Problems, risk of High Blood Sugar.",S,EN
+OroFeed-d,35,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, Weaker Joints and Muscles, risk of High Blood Sugar.",S,EN
+OroFeed-d,"45, 55",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar.",S,EN
+OroFeed-d,"56, 57,46,47",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar & Inflammation",S,EN
+OroFeed-d,"65, 75",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar & Kidney Stones, Metabolic Stress",S,EN
+OroFeed-d,"16, 26, 17, 27",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar, Low Albumin, Infections.",S,EN
+OroFeed-d,"36, 37",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, risk of High Blood Sugar.Low Albumin, Lower immunity.",S,EN
+OroFeed-d,"66, 67, 76, 77",Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,"This may lead to Weight Gain, Inflammation, Metabolic Stress, Kidney Overload",S,EN
+OroFeed-d,43,Your {{meal}} has {calories_level_name} calorie and {protein_level_name} protein.,This may lead to weakness and weight loss,S,EN
+OroFeed-d,"11, 21, 31, 41, 12, 22, 32, 42",Increase the consumption of ,"Nutrient Dense food like Ice Cream, Milk, butter, Fruit juices, Ghee, cheese, paneer, Dates and Nuts. Eat More frequent meals(6 times daily)",D,EN
+OroFeed-d,"51, 61, 71, 52, 62, 72",Increase the consumption of ,"Nutrient Dense food like Ice Cream,milk, butter, Fruit juices, Ghee,cheese, paneer, Dates and Nuts. Eat More frequent meals(6 times daily)",D,EN
+OroFeed-d,"13, 23, 33, 43, 14, 24, 34, 15, 25, 35, 16, 26, 17, 27",Increase the consumption of ,"protein Rich food like Milk, Egg White, Soya chunks,cheese, paneer",D,EN
+OroFeed-d,"53, 63, 73, 64, 74",Increase the consumption of ,"Carboydrate Rich food like Fruits - seetaphal, Apple, Banana, Orange. Vegetables - Carrot, Sweet Potato.",D,EN
+OroFeed-d,"44, 54, 45, 46, 47, 55, 56, 57, 65, 75, 66, 67, 76, 77, 36, 37",Increase the consumption of ,-,D,EN
+OroFeed-d,"11, 21, 31, 41, 12, 22, 32, 42, 51, 13, 23, 33, 43, 44",Decrease the consumption of ,-,I,EN
+OroFeed-d,"61, 71, 52, 62, 72, 53, 63, 73, 64, 74, 54, 55, 65, 75, 66, 67, 76, 77",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have more than required protein content.",I,EN
+OroFeed-d,"14, 24, 34, 15, 25, 35, 16, 26, 36, 17, 27, 37,",Decrease the consumption of ,"{{Item 1}}, {{item 2}}. These have relatively higher calories and lower protein.",I,EN
+OroFeed-d,"45, 46, 47, 56, 57",Decrease the consumption of ,-,I,EN
